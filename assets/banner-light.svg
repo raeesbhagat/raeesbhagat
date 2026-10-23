@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="280" viewBox="0 0 960 280" role="img" aria-labelledby="title desc">
+<title id="title">Research, made clearer.</title><desc id="desc">An editorial blue banner with a series of observations becoming an interpretable curve. Decorative illustration, not research results.</desc>
+<rect width="960" height="280" rx="16" fill="#edf4ff"/>
+<path d="M488 0v280" stroke="#d3e0f3"/>
+<g fill="#172d50" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="60" letter-spacing="-2"><text x="42" y="110">Research,</text><text x="42" y="178">made clearer.</text></g>
+<text x="45" y="231" fill="#516785" font-family="Arial, Helvetica, sans-serif" font-size="19">Raee Bhagat / raeeb.dev</text>
+<g stroke="#d3e0f3"><path d="M530 66h384M530 116h384M530 166h384M530 216h384"/><path d="M560 38v204M640 38v204M720 38v204M800 38v204M880 38v204"/></g>
+<path d="M541 215 C600 220 604 161 664 164 S735 166 773 114 S846 100 904 55 L904 105 C853 139 824 133 797 162 S735 211 673 201 S597 243 541 241Z" fill="#e1ecfb"/>
+<path d="M541 226 C601 229 613 176 669 183 S744 185 786 138 S849 119 904 79" stroke="#2864be" stroke-width="4" fill="none" stroke-linecap="round"/>
+<g fill="#2864be" opacity=".65"><circle cx="550" cy="205" r="4"/><circle cx="575" cy="235" r="4"/><circle cx="607" cy="188" r="4"/><circle cx="634" cy="199" r="4"/><circle cx="669" cy="165" r="4"/><circle cx="696" cy="195" r="4"/><circle cx="720" cy="175" r="4"/><circle cx="748" cy="190" r="4"/><circle cx="774" cy="132" r="4"/><circle cx="801" cy="151" r="4"/><circle cx="838" cy="101" r="4"/><circle cx="865" cy="120" r="4"/><circle cx="896" cy="68" r="4"/></g>
+</svg>
